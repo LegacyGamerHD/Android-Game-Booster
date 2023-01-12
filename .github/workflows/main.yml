@@ -31,4 +31,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: app-debug
-        path: /Android-Game-Booster/build/outputs/apk/release/*
+        path: /*
